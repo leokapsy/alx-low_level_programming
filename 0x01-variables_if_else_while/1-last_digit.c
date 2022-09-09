@@ -1,6 +1,6 @@
 /*
  * File: 1-last_digit.c
- * By: Eric Taruwinga
+ * By: Leo Kapfudzaruwa
  */
 
 #include <stdlib.h>
@@ -39,5 +39,4 @@ int main(void)
 	return (0);
 
 }
-Footer
-© 2022 GitHub, Inc.
+

@@ -1,6 +1,6 @@
 /*
  * File: 102-print_comb5.c
- * Auth: Eric Taruwinga
+ * code
  */
 
 #include <stdio.h>

@@ -1,6 +1,6 @@
 /*
  * File: 2-print_alphabet.c
- * Auth: Eric Taruwinga
+ * Auth: Leo Kapfudzaruwa
  */
 
 #include <stdio.h>
